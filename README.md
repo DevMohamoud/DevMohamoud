@@ -1,8 +1,6 @@
 
 <h1 align="center">Welcome visitors 👋, I'm devmohamoud</h1>
 <h3 align="center">
-I love programming and enjoy problem solving. My computationally programming philosophy is language comprehension. Translating listening comprehension, reading comprehension, writing proper and speaking proper as a computational approach, listening comprehension and reading being the input and the latter two being the output.
-</h3>
 <img align='right' alt='gitimage' width='400' src='https://gifdb.com/images/high/animated-working-computer-mcf5woa92v8rxgim.webp'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmohamoud&label=Profile%20views&color=0e75b6&style=flat" alt="devmohamoud" /> </p>
